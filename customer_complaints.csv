@@ -1,0 +1,16 @@
+complaint_id,customer_id,complaint_date,category,priority,channel,assigned_team,response_time_hours,resolution_time_hours,status,customer_rating
+1001,C001,2026-01-05,Delivery,High,Email,Support Team A,3,24,Resolved,4
+1002,C002,2026-01-07,Payment,Medium,Phone,Support Team B,5,48,Resolved,3
+1003,C003,2026-01-10,Product Quality,High,Website,Support Team A,2,30,Resolved,5
+1004,C004,2026-01-12,Delivery,Low,Email,Support Team C,8,72,Pending,2
+1005,C005,2026-01-15,Refund,Medium,Phone,Support Team B,4,36,Resolved,4
+1006,C006,2026-01-18,Payment,High,Website,Support Team A,3,20,Resolved,5
+1007,C007,2026-02-02,Delivery,Medium,Email,Support Team C,6,60,Pending,3
+1008,C008,2026-02-05,Product Quality,Low,Phone,Support Team B,7,50,Resolved,4
+1009,C009,2026-02-10,Refund,High,Website,Support Team A,2,18,Resolved,5
+1010,C010,2026-02-14,Payment,Medium,Email,Support Team C,5,45,Resolved,3
+1011,C011,2026-02-20,Delivery,High,Phone,Support Team A,3,28,Resolved,4
+1012,C012,2026-02-25,Refund,Low,Email,Support Team B,9,80,Pending,2
+1013,C013,2026-03-03,Payment,High,Website,Support Team A,2,22,Resolved,5
+1014,C014,2026-03-08,Delivery,Medium,Phone,Support Team C,6,55,Resolved,3
+1015,C015,2026-03-15,Product Quality,High,Email,Support Team B,4,40,Resolved,4
